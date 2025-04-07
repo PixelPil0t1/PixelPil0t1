@@ -36,6 +36,6 @@ I am a passionate developer focused on innovation and creativity in software dev
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPilot1&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/PixelPilot">PixelPilot</a>
+Credits: <a href="https://github.com/PixelPil0t1t">PixelPil0t1</a>
 
 Date: 17/02/2025
