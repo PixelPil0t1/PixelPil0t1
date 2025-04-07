@@ -32,7 +32,7 @@ I am a passionate developer focused on innovation and creativity in software dev
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PixelPilot" alt="GitHub Stats" /> <br/><br/>
 </div>
 
-![My GitHub status](https://github-readme-stats.vercel.app/api?username=PixelPilot1&show_icons=true&include_all_commits=true)
+![My GitHub status](https://github-readme-stats.vercel.app/api?username=PixelPil0t1&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPilot1&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
